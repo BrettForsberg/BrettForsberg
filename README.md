@@ -1,6 +1,8 @@
 <h1 align="center">   Hi I'm BrettForsberg</h1>
-<h3 align="center"> Information technology/supply chain professional with over 25 years of experience working with people to successfully manage, analyze, design and implement a wide variety of projects and initiatives for large national and international companies. Especially knowledgeable in systems re-engineering, ERP, Financial Integration and Supply Chain Management. Key knowledge and expertise includes: enabling meaningful growth and change for organizations and individuals, analyzing, streamlining, and optimizing business processes, instructional design and education, and facilitating interpersonal and group collaboration and transformation.
+<h3 align="center"> Information technology/supply chain professional with over 25 years experience working with people to successfully manage, analyze, design, and implement various projects and initiatives for large national and international companies. Exceptionally knowledgeable in systems re-engineering, ERP, Financial Integration, and Supply Chain Management. Essential knowledge and expertise include: enabling meaningful growth and change for organizations and individuals, analyzing, streamlining, and optimizing business processes, instructional design and education, and facilitating interpersonal and group collaboration and transformation.
+     
 
+</a>   
 </div>
 
 
